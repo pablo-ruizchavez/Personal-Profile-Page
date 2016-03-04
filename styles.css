@@ -127,6 +127,11 @@ ul.skills {
   margin: 2px;
 }
 
+.indent {
+  padding-left: 25px;
+  line-height: 1em;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
